@@ -8,3 +8,7 @@ And #JB fans you'll love this game!
 ## Demo
 
 ![](demo.gif)
+
+## To Experience
+
+[Click Here!](https://balaji-rajasekaran.github.io/flappin-jieber/)
