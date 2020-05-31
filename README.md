@@ -7,4 +7,4 @@ And #JB fans you'll love this game!
 
 ## Demo
 
-![Demo](demo/demo.gif)
+![](demo.gif)
